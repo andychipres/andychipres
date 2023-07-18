@@ -3,7 +3,7 @@
 #### I am a full stack software engineer and designer.
 
 It's me, Andy Chipres. I've never thought about writing a README for myself. 
-Usually README's are written for applications and software, but here I am writing a README about myself. And you cannot star this repo, even if you click the [![Star](https://img.shields.io/github/stars/andychipres/andychipres?style=flat-square)](https://github.com/andychipres/andychipres) button.
+Usually README's are written for applications and software, but here I am writing a README about myself. And you cannot star this repo, even if you click the star ⭐️ button.
 
 
 
