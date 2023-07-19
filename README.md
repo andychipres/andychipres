@@ -12,6 +12,7 @@ Usually README's are written for applications and software, but here I am writin
 ### On my profile, you'll find projects related to:
    - <strong> Work samples </strong>  
    - <strong> Personal projects </strong>
+   - <strong> More projects under development </strong>
   
 
 📫 You can reach me at andychipres@gmail.com.
