@@ -7,6 +7,8 @@ Usually README's are written for applications and software, but here I am writin
 
 📚 I love to learn and contribute to open-source projects. My GitHub is a collection of projects and experiments that reflect my journey and growth as a developer.
 
+💡 Feel free to explore my repositories and let me know what you think! Contributions and feedback are always welcome.
+
 📫 You can reach me at andychipres@gmail.com.
 
 
