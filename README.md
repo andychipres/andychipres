@@ -1,10 +1,13 @@
 ### Hi, I'm Andy 👋
 
-#### I am a full stack software engineer and designer.
+#### I am a full stack software engineer and designer. 
 
 It's me, Andy Chipres. I've never thought about writing a README for myself. 
 Usually README's are written for applications and software, but here I am writing a README about myself. And you cannot star this repo, even if you click the star ⭐️ button.
 
+📚 I love to learn and contribute to open-source projects. My GitHub is a collection of projects and experiments that reflect my journey and growth as a developer.
+
+📫 You can reach me at andychipres@gmail.com.
 
 
 <!--
