@@ -10,8 +10,8 @@ Usually README's are written for applications and software, but here I am writin
 💡 Feel free to explore my repositories and let me know what you think! Contributions and feedback are always welcome.💡 Feel free to explore my repositories and let me know what you think! Contributions and feedback are always welcome.
 
 ### On my profile, you'll find projects related to:
-   - <strong> Work samples: </strong>  
-   - <strong> Personal projects: </strong>
+   - <strong> Work samples </strong>  
+   - <strong> Personal projects </strong>
   
 
 📫 You can reach me at andychipres@gmail.com.
